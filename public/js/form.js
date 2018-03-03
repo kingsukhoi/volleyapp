@@ -4,3 +4,8 @@ $("#onboard-form").click(function (e) {
 
 
 });
+
+// <div class="skill-option">
+//     <input type="checkbox" name="skills" value="painting">
+//     <label for="skills">Painting</label>
+//     </div>
